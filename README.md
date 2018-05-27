@@ -1,1 +1,1 @@
-觉得写代码是一种享受。
+./configure LDFLAGS='-ldl'  //cppunit编译配置
